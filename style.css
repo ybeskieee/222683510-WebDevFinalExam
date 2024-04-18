@@ -1,0 +1,8 @@
+.nav{
+    background-color: bisque;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.container{
+    flex-direction: column-reverse;
+}
